@@ -1,0 +1,12 @@
+{
+  "name": "FacebookCleaner",
+  "version": "1.0",
+  "description": "Chrome Extension to remove those bloody suggestion boxes.\nProject Page: http://github.com/balupton/Facebook-Cleaner",
+  "update_url": "http://github.com/balupton/Facebook-Cleaner/raw/master/updates.xml",
+  "content_scripts": [
+    {
+      "matches": ["http://www.facebook.com/*"],
+      "css": ["style.css"]
+    }
+  ]
+}
