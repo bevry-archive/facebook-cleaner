@@ -1,4 +1,4 @@
 #pagelet_betabox, #pagelet_netego, #pagelet_pymkbox, #pagelet_pokebox, #pagelet_connectbox, /* http://www.facebook.com/ */
-.mtl, .ego_column, .hp_connect_box, .mbl /* http://www.facebook.com/?ref=logo */ {
+#mainContainer .mtl, .ego_column, .hp_connect_box, .mbl /* http://www.facebook.com/?ref=logo */ {
 	display:none;
 }
